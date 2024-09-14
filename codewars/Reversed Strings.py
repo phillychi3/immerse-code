@@ -1,0 +1,1 @@
+solution = lambda string: "".join(reversed(string))
